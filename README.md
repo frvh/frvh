@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frvh
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Pharmaceutical Sciences with Data Analysis.
+- 📫 How to reach me: Website: frvh.ir / Email: frvhfery@gmail.com
